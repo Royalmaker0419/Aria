@@ -1,0 +1,10 @@
+com\takehome\model\InputData.class
+com\takehome\core\GeometryUtils.class
+com\takehome\core\Grid.class
+com\takehome\placer\PlacementScorer.class
+com\takehome\placer\GreedyPlacer.class
+com\takehome\App.class
+com\takehome\model\Placement.class
+com\takehome\core\ValidationUtils.class
+com\takehome\core\PolygonRasterizer.class
+com\takehome\model\PlacementResult.class
